@@ -15,7 +15,7 @@ body > div {
   text-align: center;
 }
 
-.logo {
+.logo > img {
   opacity: 0;
   padding-top: 100px;
 }
